@@ -1,0 +1,9 @@
+#userchoice-text, #computerchoice-text, #wins-text, #losses-text, #guesses-text, #letters-picked {
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#mystuff {
+    background: black;
+}
